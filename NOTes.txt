@@ -1,0 +1,2 @@
+<!DOCTYPE html> gives the information about the version of the HTML File 
+<meta charset="utf-8"> gives meta information about HTML file this includes character set  	
